@@ -4,7 +4,7 @@ import { FAQAccordionObj } from "./FAQAccordionObj";
 
 function FAQSection() {
   return (
-    <>
+    <section id="faq">
       <Heading firsttitle="Frequently Asked" secondtitle="Question" />
       {FAQAccordionObj.map(({ question, answer }, index) => (
         <FAQAccordion
@@ -13,7 +13,7 @@ function FAQSection() {
           key={index}
         />
       ))}
-    </>
+    </section>
   );
 }
 

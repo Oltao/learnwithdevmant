@@ -3,7 +3,7 @@ import BgVid from "../assets/video/backgroundvid.mp4";
 
 function HeroSection() {
   return (
-    <section className="flex w-full flex-wrap justify-between items-center text-white p-9 lg:flex-nowrap pt-5px] pb-[10px] relative">
+    <section className="flex w-full flex-wrap justify-between items-center text-white p-9 lg:flex-nowrap pt-5px] pb-[10px] relative" id="home">
       <video
         autoPlay
         loop

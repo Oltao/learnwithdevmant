@@ -6,7 +6,7 @@ export const NavLinks = () => {
       data-aos-duration="1000"
       data-aos-offset="-1"
     >
-      <a href="/">
+      <a href="/#home">
         <li className="hover:border-b-2 hover:border-[#87a9d1]">Home</li>
       </a>
       <a href="/#course">

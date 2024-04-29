@@ -24,7 +24,7 @@ function HeroSection() {
           <span className="text-[#178673]">Now!</span>!
         </h1>
         <p
-          className="font-roboto text-lg text-justify tracking-wide"
+          className="font-poppins text-x text-justify"
           data-aos="fade-up"
           data-aos-duration="2000"
         >

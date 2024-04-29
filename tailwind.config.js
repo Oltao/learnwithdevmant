@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'backgroundimg': "url('./src/assets/images/BackgroundImg.jpg')",
+        'backgroundimg': "url('./src/assets/images/backgroundImage.png')",
       },
       fontFamily: {
         poppins: 'Poppins, ui-serif', // Adds a new `font-poppins` class

@@ -9,7 +9,7 @@ const FAQAccordion = ({ question, answer }) => {
       data-aos-duration="1500"
     >
       <h3
-        className={`font-bold text-xl text-[#87a9d1] cursor-pointer flex justify-between`}
+        className={`font-bold text-xl text-[#178673] cursor-pointer flex justify-between`}
         onClick={() => setShowAccordion(!showAccordion)}
       >
         {question}

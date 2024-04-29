@@ -1,3 +1,4 @@
+import React from "react";
 import FAQAccordion from "./FAQAccordion";
 import Heading from "./Heading";
 import { FAQAccordionObj } from "./FAQAccordionObj";

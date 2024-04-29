@@ -1,5 +1,6 @@
 import dataimg from "../assets/images/dataimg.svg";
 import BgVid from "../assets/video/backgroundvid.mp4";
+import React from "react";
 
 function HeroSection() {
   return (

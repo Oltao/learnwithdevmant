@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect } from "react";
 import CourseSection from "./Components/CourseSection";
 import FAQSection from "./Components/FAQSection";

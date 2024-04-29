@@ -1,3 +1,4 @@
+import React from "react";
 import { Logo } from "../header/Logo";
 import { NavLinks } from "../header/NavLinks";
 import { Social } from "../header/Social";

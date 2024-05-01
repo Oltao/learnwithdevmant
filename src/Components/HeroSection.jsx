@@ -18,7 +18,7 @@ function HeroSection() {
         <h1
           className="font-poppins text-6xl antialiased font-bold uppercase"
           data-aos="fade-up"
-          data-aos-duration="1500"
+          data-aos-duration="1000"
         >
           <span className="text-[#178673]">Tech</span> is the{" "}
           <span className="text-[#178673]">Future</span> and the future is{" "}
